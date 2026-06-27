@@ -1,7 +1,7 @@
 # 💫 About Me:
 My name is Hieu, Luong Quy Hieu.<br>I'm a third-year IT student of SOICT-HUST in Vietnam.<br>My main major is about Computer Vision, and  currently I'm in a project about diseases classifications.<br>Out of school, i luv cooking or reading novels. It's seemed to be useful for me to relax or just honestly, fill my stomach and watse my time without smartphone:D<br>Also, I often spend time on trips with my family or friends.<br><br>Hopefully we can connect easily to each other. <br>PS: At school, especially in HUST, I also join in some software projects, like some management/recommendation or algorithms problems along with my main major projects. 
-Contact me: hieu.lq235711@sis.hust.edu.vn
-            /luongquyhieu1@gmail.com
+<br>Contact me: hieu.lq235711@sis.hust.edu.vn
+            / luongquyhieu1@gmail.com
 
 
 ## 🌐 Socials:
